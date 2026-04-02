@@ -1,4 +1,130 @@
 {
-  "products": [],
-  "cartItems": []
+  "products": [
+    {
+      "id": 1,
+      "title": "Mechanical Keyboard",
+      "description": "Compact 75% keyboard",
+      "price": 89.99,
+      "image": "",
+      "category": "Electronics"
+    },
+    {
+      "id": 2,
+      "title": "Wireless Mouse",
+      "description": "Ergonomic mouse",
+      "price": 34.5,
+      "image": "",
+      "category": "Electronics"
+    },
+    {
+      "id": 3,
+      "title": "Bottle",
+      "description": "24 oz stainless steel bottle",
+      "price": 24,
+      "image": "",
+      "category": "Home"
+    },
+    {
+      "id": 4,
+      "title": "NDesk Lamp",
+      "description": "LED desk lamp",
+      "price": 42.75,
+      "image": "",
+      "category": "Home"
+    },
+    {
+      "id": 5,
+      "title": "Running Shoes",
+      "description": "running shoes",
+      "price": 74.99,
+      "image": "",
+      "category": "Sports"
+    },
+    {
+      "id": 6,
+      "title": "Yoga Mat",
+      "description": "Stretching, and pilates.",
+      "price": 29.95,
+      "image": "",
+      "category": "Sports"
+    },
+    {
+      "id": 7,
+      "title": "Headphones",
+      "description": "Wireless headphones",
+      "price": 129,
+      "image": "",
+      "category": "Electronics"
+    },
+    {
+      "id": 8,
+      "title": "Smart Watch",
+      "description": "Fitness tracking watch",
+      "price": 149.99,
+      "image": "",
+      "category": "Electronics"
+    },
+    {
+      "id": 9,
+      "title": "Coffee Grinder",
+      "description": "grinds coffee",
+      "price": 56.2,
+      "image": "",
+      "category": "Kitchen"
+    },
+    {
+      "id": 10,
+      "title": "Knife",
+      "description": "cuts stuff",
+      "price": 39.8,
+      "image": "",
+      "category": "Kitchen"
+    },
+    {
+      "id": 11,
+      "title": "Blanket",
+      "description": "warm blanket",
+      "price": 27.4,
+      "image": "",
+      "category": "Home"
+    },
+    {
+      "id": 12,
+      "title": "Backpack",
+      "description": "holds stuff",
+      "price": 48.6,
+      "image": "",
+      "category": "Fashion"
+    },
+    {
+      "id": 13,
+      "title": "iphone",
+      "description": "call people, play angry birds",
+      "price": 1499.99,
+      "image": "",
+      "category": "Electronics"
+    },
+    {
+      "id": 14,
+      "title": "snow gloves",
+      "description": "keep hands warm",
+      "price": 44.99,
+      "image": "",
+      "category": "Fashion"
+    }
+  ],
+  "cartItems": [
+    {
+      "productId": 13,
+      "quantity": 73
+    },
+    {
+      "productId": 1,
+      "quantity": 1
+    },
+    {
+      "productId": 2,
+      "quantity": 1
+    }
+  ]
 }
